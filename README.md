@@ -1,4 +1,2 @@
 # Summuary
-This repository is a compilation of Jupyter notebooks that aim to predict missing values or states in datasets using deep neural networks implemented in Python. The notebooks provide a comprehensive collection of examples and techniques to address these prediction tasks.
-
-The project focuses on exploring various deep learning techniques to predict missing values or states in datasets. Missing values can arise in real-world datasets due to factors like data collection errors, incomplete data, or system failures. By accurately predicting missing values, we can significantly improve data analysis and decision-making processes.
+This repository is a compilation of Jupyter notebooks that aim to predict states or missing values in datasets using deep neural networks implemented in Python. The notebooks provide a comprehensive collection of examples and techniques to address these prediction tasks.
